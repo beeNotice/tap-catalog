@@ -5,4 +5,4 @@ metadata:
   description: Demo System
 spec:
   owner: demo-team
-  domain: tanzu-app-domain
+  domain: demo-domain
