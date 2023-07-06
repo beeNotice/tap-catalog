@@ -7,6 +7,7 @@ spec:
   targets:
     - ./components/tanzu-app.yaml
     - ./groups/default-org.yaml
+    - ./groups/demo-org.yaml
     - ./systems/tanzu-app-system.yaml
     - ./domains/tanzu-app-domain.yaml
     - ./api/petstore.yaml

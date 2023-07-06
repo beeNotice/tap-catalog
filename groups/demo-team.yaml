@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: demo-team
+  description: Demo Team
+spec:
+  type: team
+  profile:
+    displayName: Demo Team
+    email: team@tanzu.com
+    picture: https://avatars.dicebear.com/api/identicon/team-c@example.com.svg?background=%23fff&margin=25
+  parent: demo-org
+  children: []
+
+
