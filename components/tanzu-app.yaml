@@ -16,8 +16,6 @@ spec:
   lifecycle: demo
   system: tanzu-app-system
   owner: default-team
-  consumesApis: # list of APIs consumed by the Component
-    - petstore-api
   providesApis:
     - tanzu-app-api
   dependsOn: 
