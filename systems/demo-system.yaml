@@ -1,0 +1,8 @@
+*apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: demo-system
+  description: Demo System
+spec:
+  owner: demo-team
+  domain: tanzu-app-domain

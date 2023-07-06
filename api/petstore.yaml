@@ -10,8 +10,8 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: default-team
-  system: tanzu-app-system
+  owner: demo-team
+  system: demo-system
   definition:
     # WIP to work with Dynamic APIs
     $text: https://github.com/beeNotice/tap-catalog/tree/main/api/openapi/openapi-petstore.yaml

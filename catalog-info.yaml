@@ -9,7 +9,9 @@ spec:
     - ./groups/default-org.yaml
     - ./groups/demo-org.yaml
     - ./systems/tanzu-app-system.yaml
+    - ./systems/demo-system.yaml
     - ./domains/tanzu-app-domain.yaml
+    - ./domains/demo-domain.yaml
     - ./api/petstore.yaml
     - ./api/tanzu-app.yaml
     - ./ressources/tanzu-app-ressource.yaml
